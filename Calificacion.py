@@ -14,5 +14,5 @@ elif (calificacion < 70):
 elif (calificacion >= 70):
 
     print("Aprobó")
-print("el promedio es: ", calificación)
+print("el promedio es: ", (str(calificación)))
 
